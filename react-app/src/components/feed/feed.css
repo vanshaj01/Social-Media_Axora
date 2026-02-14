@@ -1,0 +1,14 @@
+.feed{
+    flex: 5.5;
+}
+
+/* .feedWrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+} */
